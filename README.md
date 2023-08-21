@@ -1,4 +1,4 @@
-## BashScript-for-Monitoring
+# BashScript-for-Monitoring
 
 ### Automate server monitoring using bash-Scripting.
 
